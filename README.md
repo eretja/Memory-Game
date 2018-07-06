@@ -1,10 +1,10 @@
 # Memory Game Project
 
 
-#Challenge
+# Challenge
 Match cards in less time with less moves.
 
-#Instructions
+# Instructions
 When you open browser window, you will see the game box. After first click on one of the cards the game starts.
 
 Timer starts count seconds and minutes when you are in game.
@@ -17,10 +17,10 @@ Your moves is counting and total score will depends on amount of moves before yo
 After finishing the game you have an opportunity to start again by clicking on button.
 
 
-#This game depends on a few libraries:
+# This game depends on a few libraries:
 jquery
 bootstrap
 google fonts
 
-#Notice
+# Notice
 This project is done as part of the Front-End Web Developer Nanodegree program by Udacity.
